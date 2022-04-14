@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".zoroyun"
+    android:background="#BFBDBD"
+    tools:layout_editor_absoluteX="67dp"
+    tools:layout_editor_absoluteY="0dp">
+
+    <ImageButton
+        android:id="@+id/zimageButton1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton7"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="70dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton13"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="130dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton19"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="190dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton25"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="250dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton31"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="310dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton20"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="188dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton26"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="248dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton32"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="308dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton21"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="145dp"
+        android:layout_marginTop="188dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton27"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="145dp"
+        android:layout_marginTop="248dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton33"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="145dp"
+        android:layout_marginTop="308dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="10dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton8"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="70dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton14"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="128dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton3"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="145dp"
+        android:layout_marginTop="10dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton9"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="145dp"
+        android:layout_marginTop="68dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton15"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="145dp"
+        android:layout_marginTop="128dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton4"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="215dp"
+        android:layout_marginTop="10dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton10"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="215dp"
+        android:layout_marginTop="68dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton16"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="215dp"
+        android:layout_marginTop="128dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton22"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="215dp"
+        android:layout_marginTop="188dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton28"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="215dp"
+        android:layout_marginTop="248dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton34"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="215dp"
+        android:layout_marginTop="308dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton5"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="280dp"
+        android:layout_marginTop="10dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton11"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="280dp"
+        android:layout_marginTop="68dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton17"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="280dp"
+        android:layout_marginTop="128dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton23"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="280dp"
+        android:layout_marginTop="188dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton29"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="280dp"
+        android:layout_marginTop="248dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton35"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="280dp"
+        android:layout_marginTop="308dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton6"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.982"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton12"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="68dp"
+        android:layout_marginEnd="10dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.982"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton18"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="128dp"
+        android:layout_marginEnd="10dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.982"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton24"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="188dp"
+        android:layout_marginEnd="10dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.982"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton30"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="248dp"
+        android:layout_marginEnd="10dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.982"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/zimageButton36"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="308dp"
+        android:layout_marginEnd="10dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.982"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <Button
+        android:id="@+id/button_anasayfa2"
+        android:layout_width="175dp"
+        android:layout_height="75dp"
+        android:layout_marginBottom="16dp"
+        android:text="Anasayfa"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.937"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/zeslesmeText"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="112dp"
+        android:background="@color/purple_500"
+        android:text=" Eslesme: 18/0"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/zhamleText"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="112dp"
+        android:background="@color/purple_500"
+        android:text=" Hamle Sayısı: 0"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.054"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/zscoreText"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="112dp"
+        android:background="@color/purple_500"
+        android:text=" Skor : 0"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:autoSizeTextType="none"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.942"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/zorbutonkaydet"
+        android:layout_width="175dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="16dp"
+        android:text="Skorunu Kaydet"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/zorzaman"
+        android:layout_width="120dp"
+        android:layout_height="35dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="168dp"
+        android:background="@color/purple_500"
+        android:text="00:00:00"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/zztext"
+        android:layout_width="120dp"
+        android:layout_height="35dp"
+        android:layout_marginEnd="144dp"
+        android:layout_marginBottom="168dp"
+        android:background="@color/purple_500"
+        android:text="ZAMAN : "
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

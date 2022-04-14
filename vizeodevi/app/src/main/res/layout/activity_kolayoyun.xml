@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".kolayoyun"
+    android:background="#BFBDBD"
+    tools:layout_editor_absoluteX="0dp"
+    tools:layout_editor_absoluteY="97dp">
+
+    <ImageButton
+        android:id="@+id/imagebutton1"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="10dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/imagebutton5"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="104dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/imagebutton9"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="196dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/imagebutton13"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="288dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/imagebutton2"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="112dp"
+        android:layout_marginTop="10dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/imagebutton6"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="112dp"
+        android:layout_marginTop="104dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/imagebutton10"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="112dp"
+        android:layout_marginTop="196dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/imagebutton14"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="112dp"
+        android:layout_marginTop="288dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/imagebutton3"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="212dp"
+        android:layout_marginTop="10dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/imagebutton7"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="212dp"
+        android:layout_marginTop="104dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/imagebutton11"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="212dp"
+        android:layout_marginTop="196dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/imagebutton15"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="212dp"
+        android:layout_marginTop="288dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/imagebutton4"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="16dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/imagebutton8"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="104dp"
+        android:layout_marginEnd="16dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/imagebutton12"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="196dp"
+        android:layout_marginEnd="16dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <ImageButton
+        android:id="@+id/imagebutton16"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="288dp"
+        android:layout_marginEnd="16dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_soruisareti" />
+
+    <Button
+        android:id="@+id/button_anasayfa"
+        android:layout_width="175dp"
+        android:layout_height="75dp"
+        android:layout_marginBottom="16dp"
+        android:text="ana Sayfa"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.952"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/hamleText"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="100dp"
+        android:background="@color/purple_500"
+        android:text=" Hamle Sayısı: 0 "
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/eslesmeText"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="100dp"
+        android:background="@color/purple_500"
+        android:text=" Eslesme: 8/0 "
+        android:textAlignment="center"
+        android:textColor="#FBFBFB"
+        android:textSize="16sp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/scoreText"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="100dp"
+        android:background="@color/purple_500"
+        android:text="Skor: 0"
+        android:textAlignment="center"
+        android:textColor="#FAF9F9"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/kolaybutonkaydet"
+        android:layout_width="175dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="16dp"
+        android:text="Skorunu Kaydet"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/kolayzaman"
+        android:layout_width="135dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="160dp"
+        android:background="@color/purple_500"
+        android:text="00:00:00"
+        android:textAlignment="center"
+        android:textColor="#FBFAFA"
+        android:textSize="20sp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.923"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/kztext"
+        android:layout_width="120dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="160dp"
+        android:background="@color/purple_500"
+        android:text="  ZAMAN : "
+        android:textAlignment="center"
+        android:textColor="#FDFDFD"
+        android:textSize="20sp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
