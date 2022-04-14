@@ -33,16 +33,21 @@
 ![2](https://user-images.githubusercontent.com/33986500/163313622-62755f01-0ac5-4c6d-8798-6942520779fb.gif)
 ## oyun oynanış gifleri
 - oyunun açılış ekranı oyun ekranı oynanış biçimi veri tabanına kaydetme işlemleri gibi bir çok işlemi gösteren oynanış gifleri.
+# 1.gif
 ![1](https://user-images.githubusercontent.com/33986500/163313819-f03d9e28-4a71-4703-8585-7bcf2e35add2.gif)
-1. ilk gifimizde ana sayfa görünümü ve oyun moduna giriş işlemleri görülmektedir
+- ilk gifimizde ana sayfa görünümü ve oyun moduna giriş işlemleri görülmektedir
+# 2.gif
 ![2](https://user-images.githubusercontent.com/33986500/163313838-b820fdb3-3562-482b-b002-92f3e3125a9b.gif)
-2. ikinci gifimizde oyunun oynanış biçimi ve seçme işlemleri doğru seçme yanlış seçme işlemleri görülmektedir.
+- ikinci gifimizde oyunun oynanış biçimi ve seçme işlemleri doğru seçme yanlış seçme işlemleri görülmektedir.
+# 3.gif
 ![3](https://user-images.githubusercontent.com/33986500/163314242-3d493152-dc12-441c-a000-df952294668c.gif)
-3. üçüncü gifimizde seçme işlemleri devam etmektedir doğru yanlış seçimler yapılmaktadır.
+- üçüncü gifimizde seçme işlemleri devam etmektedir doğru yanlış seçimler yapılmaktadır.
+# 4.gif
 ![4](https://user-images.githubusercontent.com/33986500/163314620-4ee92d37-98f9-4e0e-b025-1cb9d966fe8a.gif)
-4. dördüncü gifimizde ise seçme işlemlerinin bitmesi ile zaman sayacının durması ve skor hamle sayısı ve eşleşme sayılarının son halini alması.
+- dördüncü gifimizde ise seçme işlemlerinin bitmesi ile zaman sayacının durması ve skor hamle sayısı ve eşleşme sayılarının son halini alması.
+# 5.gif
 ![5](https://user-images.githubusercontent.com/33986500/163315140-08c56c9e-4b5c-4135-8f4c-362268eb7380.gif)
-5. beşinci gifimizde ise açılmış fotograflara tekrar tıklanabilirliğin kontrolü, oyunun bitmesi ile aktif hale gelen skoru kaydet butonuna tıklanması verilerin veri tabanına kaydedilmesi veri tabanına kaydedilen verinin ana sayfadaki recyclerview içersindeki görünmesi.Son oynadığımız verilerinin görünmesi bizi karşılıyor.
+- beşinci gifimizde ise açılmış fotograflara tekrar tıklanabilirliğin kontrolü, oyunun bitmesi ile aktif hale gelen skoru kaydet butonuna tıklanması verilerin veri tabanına kaydedilmesi veri tabanına kaydedilen verinin ana sayfadaki recyclerview içersindeki görünmesi.Son oynadığımız verilerinin görünmesi bizi karşılıyor.
 
 ## iletişim
 - ibrahimmminal@gmail.com
